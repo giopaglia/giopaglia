@@ -25,16 +25,29 @@ I'm Giovanni, a PhD student at <a href="https://aclai.unife.it/">ACLAI Lab</a> i
 
 ### 💻 Things I love working with
 
+<!-- https://devicon.dev/ -->
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="julia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-<!--   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="Julia" title="The Julia programming language is the best language in the world!!!"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" height="30" alt="Julia"  /> -->
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="The Python programming language for fast prototying."  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" title="Jupyter for presenting results and prototyping interactive dashboards."  />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="Jupyter" title="Jupyter for presenting results and prototyping interactive dashboards."  /> -->
+<img width="12" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="30" alt="LaTeX" title="LaTeX for typesetting elegant reports, whitepapers, and presentations."  />
+<img width="12" /> -->
+<!-- https://www.svgrepo.com/svg/376333/latex?edit=true -->
+<img src="svgrepo/latex-svgrepo-com.svg" height="30" alt="LaTeX" title="LaTeX for typesetting elegant reports, whitepapers, and presentations."  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="Bash" title="Bash &amp; Zsh for basic automation." />
+<img width="12" />
+<!-- <img src="https://github.com/Zsh-art/logo/blob/main/svg/color_vertical_icon.svg" height="30" alt="Zsh" title="Zsh for basic automation." />
+<img width="12" /> -->
+<img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" title="Git for versioning every bit of textual data: code, notes, holiday plans, etc." />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux OS."  />
 </div>
 
 <br>
