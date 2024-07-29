@@ -1,3 +1,29 @@
+# Grabbed from: https://github.com/koaning/koaning/
+
+from rich.console import Console
+from rich.tree import Tree
+
+console = Console(record=True, width=100)
+
+tree = Tree("🙂 [link=https://giopaglia.github.io/]Giovanni Pagliarini", guide_style="bold bright_black")
+
+python_tree = tree.add("📦 Julia Packages", guide_style="bright_black")
+python_tree.add("[bold link=https://github.com/aclai-lab/Sole.jl]Sole.jl[/]              - [bright_black]framework for symbolic modeling and learning")
+python_tree.add("[bold link=https://github.com/aclai-lab/SoleLogics.jl]SoleLogics.jl[/]              - [bright_black]model checking engine")
+python_tree.add("[bold link=https://github.com/aclai-lab/SoleModels.jl]SoleModels.jl[/]              - [bright_black]analysis and rule extraction from symbolic models")
+python_tree.add("[bold link=https://github.com/aclai-lab/SoleData.jl]SoleData.jl[/]              - [bright_black]optimized data structures for learning symbolic models")
+python_tree.add("[bold link=https://github.com/aclai-lab/ModalDecisionTrees.jl]ModalDecisionTrees.jl[/]              - [bright_black]CART-like learning of trees and forests based on modal logic")
+
+python_tree = tree.add("🎙️ Talks", guide_style="bright_black")
+python_tree.add("[bold link=https://www.youtube.com/watch?v=f7CLxthbZes&t=12021s]Symbolic AI workflows with Sole.jl (JuliaCon2024)[/]")
+python_tree.add("[bold link=https://www.youtube.com/watch?v=HTRhOmQIObg]Third Millennium Symbolic Learning with Sole.jl (JuliaCon2023)[/]")
+python_tree.add("[bold link=https://www.youtube.com/watch?v=HTRhOmQIObg]Decision Trees, Meet Modal Logics (JuliaCon2022)[/]")
+
+
+console.print(tree)
+console.print("")
+
+CONSOLE_HTML_FORMAT = """\
 
 <div align="center">
 <div id="user-content-toc">
@@ -108,18 +134,8 @@ I'm Giovanni, a PhD student at <a href="https://aclai.unife.it/">ACLAI Lab</a> i
 
 ### 💻 About Sole.jl
 
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🙂 <a href="https://giopaglia.github.io/">Giovanni Pagliarini</a>                                                                              
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>📦 Julia Packages                                                                               
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/aclai-lab/Sole.jl">Sole.jl</a></span>              - <span style="color: #808080; text-decoration-color: #808080">framework for symbolic modeling and learning</span>                         
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/aclai-lab/SoleLogics.jl">SoleLogics.jl</a></span>              - <span style="color: #808080; text-decoration-color: #808080">model checking engine</span>                                          
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/aclai-lab/SoleModels.jl">SoleModels.jl</a></span>              - <span style="color: #808080; text-decoration-color: #808080">analysis and rule extraction from symbolic models</span>              
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/aclai-lab/SoleData.jl">SoleData.jl</a></span>              - <span style="color: #808080; text-decoration-color: #808080">optimized data structures for learning symbolic models</span>           
-<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/aclai-lab/ModalDecisionTrees.jl">ModalDecisionTrees.jl</a></span>              - <span style="color: #808080; text-decoration-color: #808080">CART-like learning of trees and forests based on modal </span>
-<span style="color: #808080; text-decoration-color: #808080">┃       </span><span style="color: #808080; text-decoration-color: #808080">logic</span>                                                                                       
-<span style="color: #808080; text-decoration-color: #808080">┗━━ </span>🎙️ Talks                                                                                         
-<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=f7CLxthbZes&t=12021s">Symbolic AI workflows with Sole.jl (JuliaCon2024)</a></span>                                           
-<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=HTRhOmQIObg">Third Millennium Symbolic Learning with Sole.jl (JuliaCon2023)</a></span>                              
-<span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=HTRhOmQIObg">Decision Trees, Meet Modal Logics (JuliaCon2022)</a></span>                                            
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
 
-</pre>
+"""
 
+console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
