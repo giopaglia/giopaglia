@@ -55,7 +55,7 @@ I'm Giovanni, a PhD student at <a href="https://aclai.unife.it/">ACLAI Lab</a> i
 <!-- https://devicon.dev/ -->
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="Julia" title="The Julia programming language is the best language in the world!!!"  />
+<a target="_blank" href="https://julialang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="Julia" title="The Julia programming language is the best language in the world!!!"  /></a>
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" height="30" alt="Julia"  /> -->
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="The Python programming language for fast prototying."  />
