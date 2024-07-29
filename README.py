@@ -5,22 +5,23 @@ from rich.tree import Tree
 
 console = Console(record=True, width=100)
 
-tree = Tree("🙂 [link=https://giopaglia.github.io/]Giovanni Pagliarini", guide_style="bold bright_black")
+# tree = Tree("🙂 [link=https://giopaglia.github.io/]Giovanni Pagliarini", guide_style="bold bright_black")
 
-python_tree = tree.add("📦 Julia Packages", guide_style="bright_black")
-python_tree.add("[bold link=https://github.com/aclai-lab/Sole.jl]Sole.jl[/]              - [bright_black]framework for symbolic modeling and learning")
-python_tree.add("[bold link=https://github.com/aclai-lab/SoleLogics.jl]SoleLogics.jl[/]              - [bright_black]model checking engine")
-python_tree.add("[bold link=https://github.com/aclai-lab/SoleModels.jl]SoleModels.jl[/]              - [bright_black]analysis and rule extraction from symbolic models")
-python_tree.add("[bold link=https://github.com/aclai-lab/SoleData.jl]SoleData.jl[/]              - [bright_black]optimized data structures for learning symbolic models")
-python_tree.add("[bold link=https://github.com/aclai-lab/ModalDecisionTrees.jl]ModalDecisionTrees.jl[/]              - [bright_black]CART-like learning of trees and forests based on modal logic")
+tree1 = Tree("📦 Julia Packages", guide_style="bright_black") # tree.add
+tree1.add("[bold link=https://github.com/aclai-lab/Sole.jl]Sole.jl[/]              - [bright_black]framework for symbolic modeling and learning")
+tree1.add("[bold link=https://github.com/aclai-lab/SoleLogics.jl]SoleLogics.jl[/]              - [bright_black]model checking engine")
+tree1.add("[bold link=https://github.com/aclai-lab/SoleModels.jl]SoleModels.jl[/]              - [bright_black]analysis and rule extraction from symbolic models")
+tree1.add("[bold link=https://github.com/aclai-lab/SoleData.jl]SoleData.jl[/]              - [bright_black]optimized data structures for learning symbolic models")
+tree1.add("[bold link=https://github.com/aclai-lab/ModalDecisionTrees.jl]ModalDecisionTrees.jl[/]              - [bright_black]CART-like learning of trees and forests based on modal logic")
 
-python_tree = tree.add("🎙️ Talks", guide_style="bright_black")
-python_tree.add("[bold link=https://www.youtube.com/watch?v=f7CLxthbZes&t=12021s]Symbolic AI workflows with Sole.jl (JuliaCon2024)[/]")
-python_tree.add("[bold link=https://www.youtube.com/watch?v=HTRhOmQIObg]Third Millennium Symbolic Learning with Sole.jl (JuliaCon2023)[/]")
-python_tree.add("[bold link=https://www.youtube.com/watch?v=HTRhOmQIObg]Decision Trees, Meet Modal Logics (JuliaCon2022)[/]")
+tree2 = Tree("🎙️ Talks", guide_style="bright_black") # tree.add
+tree2.add("[bold link=https://www.youtube.com/watch?v=f7CLxthbZes&t=12021s]Symbolic AI workflows with Sole.jl (JuliaCon2024)[/]")
+tree2.add("[bold link=https://www.youtube.com/watch?v=HTRhOmQIObg]Third Millennium Symbolic Learning with Sole.jl (JuliaCon2023)[/]")
+tree2.add("[bold link=https://www.youtube.com/watch?v=HTRhOmQIObg]Decision Trees, Meet Modal Logics (JuliaCon2022)[/]")
 
 
-console.print(tree)
+console.print(tree1)
+console.print(tree2)
 console.print("")
 
 CONSOLE_HTML_FORMAT = """\
