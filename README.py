@@ -7,14 +7,16 @@ console = Console(record=True, width=100)
 
 # tree = Tree("🙂 [link=https://giopaglia.github.io/]Giovanni Pagliarini", guide_style="bold bright_black")
 
-tree1 = Tree("📦 Julia Packages", guide_style="bright_black") # tree.add
-tree1.add("[bold link=https://github.com/aclai-lab/Sole.jl]Sole.jl[/]              - [bright_black]framework for symbolic modeling and learning")
-tree1.add("[bold link=https://github.com/aclai-lab/SoleLogics.jl]SoleLogics.jl[/]              - [bright_black]model checking engine")
-tree1.add("[bold link=https://github.com/aclai-lab/SoleModels.jl]SoleModels.jl[/]              - [bright_black]analysis and rule extraction from symbolic models")
-tree1.add("[bold link=https://github.com/aclai-lab/SoleData.jl]SoleData.jl[/]              - [bright_black]optimized data structures for learning symbolic models")
-tree1.add("[bold link=https://github.com/aclai-lab/ModalDecisionTrees.jl]ModalDecisionTrees.jl[/]              - [bright_black]CART-like learning of trees and forests based on modal logic")
+tree1 = Tree("📦 Julia Packages", guide_style="bold bright_black")
+# tree1 = tree.add("📦 Julia Packages", guide_style="bright_black")
+tree1.add("[bold link=https://github.com/aclai-lab/Sole.jl]Sole.jl[/]                                  - [bright_black]framework for symbolic modeling and learning")
+tree1.add("[bold link=https://github.com/aclai-lab/SoleLogics.jl]SoleLogics.jl[/]                      - [bright_black]model checking engine")
+tree1.add("[bold link=https://github.com/aclai-lab/SoleModels.jl]SoleModels.jl[/]                      - [bright_black]analysis and rule extraction from symbolic models")
+tree1.add("[bold link=https://github.com/aclai-lab/SoleData.jl]SoleData.jl[/]                          - [bright_black]optimized data structures for learning symbolic models")
+tree1.add("[bold link=https://github.com/aclai-lab/ModalDecisionTrees.jl]ModalDecisionTrees.jl[/]      - [bright_black]CART-like learning of trees and forests based on modal logic")
 
-tree2 = Tree("🎙️ Talks", guide_style="bright_black") # tree.add
+tree2 = Tree("🎙️ Talks", guide_style="bold bright_black")
+# tree2 = tree.add("🎙️ Talks", guide_style="bright_black")
 tree2.add("[bold link=https://www.youtube.com/watch?v=f7CLxthbZes&t=12021s]Symbolic AI workflows with Sole.jl (JuliaCon2024)[/]")
 tree2.add("[bold link=https://www.youtube.com/watch?v=HTRhOmQIObg]Third Millennium Symbolic Learning with Sole.jl (JuliaCon2023)[/]")
 tree2.add("[bold link=https://www.youtube.com/watch?v=HTRhOmQIObg]Decision Trees, Meet Modal Logics (JuliaCon2022)[/]")
