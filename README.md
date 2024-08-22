@@ -20,7 +20,7 @@ I'm Giovanni, a PhD student at <a href="https://aclai.unife.it/">ACLAI Lab</a> i
 🤝 Looking to collaborate on AI projects for <a target="_blank" href="https://sdgs.un.org/goals">SDGs</a>;
 <br>
 ⚡ Checkout my <a target="_blank" href="https://giopaglia.github.io/">website</a>, my
-<a target="_blank" href="https://linkedin.com/in/giovanni.pagliarini/">LinkedIn</a> or my <a target="_blank" href="https://giopaglia.github.io/gio/Giovanni-Pagliarini-CV-latest.pdf">CV</a>.
+<a target="_blank" href="https://linkedin.com/in/giovanni.pagliarini/">LinkedIn</a> or my <a target="_blank" href="https://giopaglia.github.io/gio/Giovanni-Pagliarini-CV-en-latest.pdf">CV</a>.
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanni.pagliarini) -->
 
 
