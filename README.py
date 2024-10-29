@@ -17,7 +17,7 @@ tree1.add("[bold link=https://github.com/aclai-lab/ModalDecisionTrees.jl]ModalDe
 
 tree2 = Tree("🎙️ Talks", guide_style="bold bright_black")
 # tree2 = tree.add("🎙️ Talks", guide_style="bright_black")
-tree2.add("[bold link=https://www.youtube.com/watch?v=f7CLxthbZes&t=11694s]Symbolic AI workflows with Sole.jl (JuliaCon2024)[/]")
+tree2.add("[bold link=https://www.youtube.com/watch?v=pfejOC_T5cQ]Symbolic AI workflows with Sole.jl (JuliaCon2024)[/]")
 tree2.add("[bold link=https://www.youtube.com/watch?v=HTRhOmQIObg]Third Millennium Symbolic Learning with Sole.jl (JuliaCon2023)[/]")
 tree2.add("[bold link=https://www.youtube.com/watch?v=HTRhOmQIObg]Decision Trees, Meet Modal Logics (JuliaCon2022)[/]")
 
