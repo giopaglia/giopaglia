@@ -34,7 +34,7 @@ CONSOLE_HTML_FORMAT = """\
     <summary><h1 style="display: inline-block;">👋</h1></summary>
   </ul>
 </div>
-I'm Giovanni, a PhD student at <a href="https://aclai.unife.it/">ACLAI Lab</a> in Ferrara, Italy.
+I'm Giovanni, a computer scientist based in Ferrara, Italy.
 </div>
 <h2></h2>
 
@@ -42,11 +42,11 @@ I'm Giovanni, a PhD student at <a href="https://aclai.unife.it/">ACLAI Lab</a> i
 
 📚 Been studying Machine Learning & Data Science in 🇮🇹, 🇸🇪, 🇸🇬 & 🇦🇺;
 <br>
-🔭 Currently working on the <a target="_blank" href="https://github.com/aclai-lab/Sole.jl">Sole.jl</a> AI framework;
+🌱 Learning all about AI and open source;
 <br>
-🌱 Learning all about open source and Julia;
+🔭 Currently working on the <a target="_blank" href="https://github.com/aclai-lab/Sole.jl">Sole.jl</a> AI framework in Julia;
 <br>
-🤝 Looking to collaborate on AI projects for <a target="_blank" href="https://sdgs.un.org/goals">SDGs</a>;
+🤝 Looking to collaborate on innovative AI projects
 <br>
 ⚡ Checkout my <a target="_blank" href="https://giopaglia.github.io/">website</a>, my
 <a target="_blank" href="https://linkedin.com/in/giovanni.pagliarini/">LinkedIn</a> or my <a target="_blank" href="https://giopaglia.github.io/gio/Giovanni-Pagliarini-CV-latest.pdf">CV</a>.
@@ -135,7 +135,7 @@ I'm Giovanni, a PhD student at <a href="https://aclai.unife.it/">ACLAI Lab</a> i
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 💻 About Sole.jl
+### ☀️ About Sole.jl
 
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
 
