@@ -17,7 +17,7 @@ tree1.add("[bold link=https://github.com/aclai-lab/ModalDecisionTrees.jl]ModalDe
 
 tree2 = Tree("🎙️ Talks", guide_style="bold bright_black")
 # tree2 = tree.add("🎙️ Talks", guide_style="bright_black")
-tree2.add("[bold link=https://www.youtube.com/watch?v=f7CLxthbZes&t=11694s]Symbolic AI workflows with Sole.jl (JuliaCon2024)[/]")
+tree2.add("[bold link=https://www.youtube.com/watch?v=pfejOC_T5cQ]Symbolic AI workflows with Sole.jl (JuliaCon2024)[/]")
 tree2.add("[bold link=https://www.youtube.com/watch?v=HTRhOmQIObg]Third Millennium Symbolic Learning with Sole.jl (JuliaCon2023)[/]")
 tree2.add("[bold link=https://www.youtube.com/watch?v=HTRhOmQIObg]Decision Trees, Meet Modal Logics (JuliaCon2022)[/]")
 
@@ -49,7 +49,7 @@ I'm Giovanni, a computer scientist based in Ferrara, Italy.
 🤝 Looking to collaborate on innovative AI projects
 <br>
 ⚡ Checkout my <a target="_blank" href="https://giopaglia.github.io/">website</a>, my
-<a target="_blank" href="https://linkedin.com/in/giovanni.pagliarini/">LinkedIn</a> or my <a target="_blank" href="https://giopaglia.github.io/gio/Giovanni-Pagliarini-CV-latest.pdf">CV</a>.
+<a target="_blank" href="https://linkedin.com/in/giovanni.pagliarini/">LinkedIn</a> or my <a target="_blank" href="https://giopaglia.github.io/gio/Giovanni-Pagliarini-CV-en-latest.pdf">CV</a>.
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanni.pagliarini) -->
 
 
