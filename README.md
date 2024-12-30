@@ -108,6 +108,7 @@ I'm Giovanni, a computer scientist based in Ferrara, Italy.
 
 ### ☀️ About Sole.jl
 
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">📦 Julia Packages
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/aclai-lab/Sole.jl">Sole.jl</a></span>                  - <span style="color: #808080; text-decoration-color: #808080">framework for symbolic modeling and learning</span>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/aclai-lab/SoleLogics.jl">SoleLogics.jl</a></span>            - <span style="color: #808080; text-decoration-color: #808080">model checking engine</span>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/aclai-lab/SoleModels.jl">SoleModels.jl</a></span>            - <span style="color: #808080; text-decoration-color: #808080">analysis and rule extraction from symbolic models</span>
