@@ -11,22 +11,23 @@ I'm Giovanni, a computer scientist based in Ferrara, Italy.
 
 ### 💫 About Me
 
-📚 Been studying Machine Learning & Data Science in 🇮🇹, 🇸🇪, 🇸🇬 & 🇦🇺;
+🤔 Interested in AI, machine learning, computation theory, open source;
 <br>
-🌱 Learning all about AI and open source;
+📚 Studied Computer Science in 🇮🇹, 🇸🇪, 🇸🇬 & 🇦🇺;
 <br>
-🔭 Currently working on the <a target="_blank" href="https://github.com/aclai-lab/Sole.jl">Sole.jl</a> AI framework in Julia;
+🌱 Just joined <a target="_blank" href="https://planting.space/">Planting Space</a> on a venture towards symbolic AI;
 <br>
-🤝 Looking to collaborate on innovative AI projects
+🔭 Occasionally contributing to the <a target="_blank" href="https://github.com/aclai-lab/Sole.jl">Sole.jl</a> AI framework in Julia;
 <br>
 ⚡ Checkout my <a target="_blank" href="https://giopaglia.github.io/">website</a>, my
 <a target="_blank" href="https://linkedin.com/in/giovanni.pagliarini/">LinkedIn</a> or my <a target="_blank" href="https://giopaglia.github.io/gio/Giovanni-Pagliarini-CV-en-latest.pdf">CV</a>.
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanni.pagliarini) -->
 
+
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanni.pagliarini) -->
 
 ### 💻 Things I love working with
 
-<!-- https://devicon.dev/ -->
+<!-- https://devicon.dev/ & https://github.com/simple-icons/simple-icons -->
 
 <div align="left">
 <a target="_blank" href="https://julialang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="Julia" title="The Julia programming language is the best language in the world!!!"  /></a>
@@ -49,7 +50,24 @@ I'm Giovanni, a computer scientist based in Ferrara, Italy.
 <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" title="Git for versioning every bit of textual data: code, notes, holiday plans, etc." />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux OS."  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="Visual Studio Code"/>
+<img width="12" />
+<img src="https://cdn.simpleicons.org/neovim" height="30" alt="Sublime Text."  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/tmux" height="30" alt="Tmux."  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/alacritty" height="30" alt="Alacritty."  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/sublimetext" height="30" alt="Sublime Text."  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/ollama" height="30" alt="Ollama: local language models."  />
 </div>
+
+
+
+<!-- karabiner -->
+<!-- cinnamon -->
 
 <br>
 
