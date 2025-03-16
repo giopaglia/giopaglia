@@ -5,7 +5,7 @@
     <summary><h1 style="display: inline-block;">👋</h1></summary>
   </ul>
 </div>
-I'm Giovanni, a computer scientist based in Ferrara, Italy.
+I'm Gio, a computer scientist based in Ferrara, Italy.
 </div>
 <h2></h2>
 

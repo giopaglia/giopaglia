@@ -5,7 +5,7 @@ from rich.tree import Tree
 
 console = Console(record=True, width=100)
 
-# tree = Tree("🙂 [link=https://giopaglia.github.io/]Giovanni Pagliarini", guide_style="bold bright_black")
+# tree = Tree("🙂 [link=https://giopaglia.github.io/]Gio Pagliarini", guide_style="bold bright_black")
 
 tree1 = Tree("📦 Julia Packages", guide_style="bold bright_black")
 # tree1 = tree.add("📦 Julia Packages", guide_style="bright_black")
@@ -34,7 +34,7 @@ CONSOLE_HTML_FORMAT = """\
     <summary><h1 style="display: inline-block;">👋</h1></summary>
   </ul>
 </div>
-I'm Giovanni, a computer scientist based in Ferrara, Italy.
+I'm Gio, a computer scientist based in Ferrara, Italy.
 </div>
 <h2></h2>
 
