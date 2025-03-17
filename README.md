@@ -15,7 +15,7 @@ I'm Gio, a computer scientist based in Ferrara, Italy.
 <br>
 📚 Studied Computer Science in 🇮🇹, 🇸🇪, 🇸🇬 & 🇦🇺;
 <br>
-🌱 Just joined <a target="_blank" href="https://planting.space/">Planting Space</a> on a venture towards symbolic AI;
+🌱 Just joined <a target="_blank" href="https://planting.space/">Planting Space</a> on a venture towards general symbolic AI;
 <br>
 🔭 Occasionally contributing to the <a target="_blank" href="https://github.com/aclai-lab/Sole.jl">Sole.jl</a> AI framework in Julia;
 <br>
