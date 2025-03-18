@@ -65,6 +65,7 @@ I'm Gio, a computer scientist based in Ferrara, Italy.
 </div>
 
 
+
 <!-- karabiner -->
 <!-- cinnamon -->
 
@@ -138,8 +139,3 @@ I'm Gio, a computer scientist based in Ferrara, Italy.
 
 </pre>
 
-
-<!-- ### ⭐ Favorite projects (but only those which you might not know)
-
-- [insertSeq](https://github.com/volkerdobler/insertnums) (and [InsertNums](https://github.com/SublimeText/InsertNums))
--->
