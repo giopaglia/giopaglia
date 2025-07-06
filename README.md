@@ -130,6 +130,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/giopaglia/bitsofus">bitsofus</a></span>                     - <span style="color: #808080; text-decoration-color: #808080">Takeout data enhancer utilities</span>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/giopaglia/rooflini">rooflini</a></span>                     - <span style="color: #808080; text-decoration-color: #808080">Python plot roofline analyses </span>
 <span style="color: #808080; text-decoration-color: #808080">┗━━ </span><span style="font-weight: bold"><a href="https://github.com/giopaglia/academic-grandfolks">academic-grandfolks</a></span>          - <span style="color: #808080; text-decoration-color: #808080">Trace one&#x27;s academic genealogy</span>
+
 ☀️ Sole.jl
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>📦 Julia Packages
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/aclai-lab/Sole.jl">Sole.jl</a></span>                  - <span style="color: #808080; text-decoration-color: #808080">framework for symbolic modeling and learning</span>

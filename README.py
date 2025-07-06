@@ -42,6 +42,7 @@ projectstree.add("[bold link=https://github.com/giopaglia/academic-grandfolks]ac
 
 
 console.print(projectstree)
+console.print("")
 console.print(soletree)
 console.print("")
 
