@@ -138,9 +138,10 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=HTRhOmQIObg">Third Millennium Symbolic Learning with Sole.jl (JuliaCon2023)</a></span>
 <span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=HTRhOmQIObg">Decision Trees, Meet Modal Logics (JuliaCon2022)</a></span>
 🛠️ Utilities
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/giopaglia/bitsofus">bitsofus</a></span>            - <span style="color: #808080; text-decoration-color: #808080">TODO</span>
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/giopaglia/rooflini">rooflini</a></span>                  - <span style="color: #808080; text-decoration-color: #808080">TODO</span>
-<span style="color: #808080; text-decoration-color: #808080">┗━━ </span><span style="font-weight: bold"><a href="https://github.com/giopaglia/academic-grandfolks">academic-grandfolks</a></span>            - <span style="color: #808080; text-decoration-color: #808080">TODO</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/giopaglia/bitsofus">bitsofus</a></span>                       - <span style="color: #808080; text-decoration-color: #808080">Takeout data enhancer utilities</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/giopaglia/rooflini">rooflini</a></span>                     - <span style="color: #808080; text-decoration-color: #808080">A Python script for plotting (Intel Advisor style) roofline </span>
+<span style="color: #808080; text-decoration-color: #808080">┃   </span><span style="color: #808080; text-decoration-color: #808080">analyses. </span>
+<span style="color: #808080; text-decoration-color: #808080">┗━━ </span><span style="font-weight: bold"><a href="https://github.com/giopaglia/academic-grandfolks">academic-grandfolks</a></span>          - <span style="color: #808080; text-decoration-color: #808080">Trace one&#x27;s academic genealogy.</span>
 
 </pre>
 
