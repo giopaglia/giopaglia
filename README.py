@@ -41,8 +41,8 @@ projectstree.add("[bold link=https://github.com/giopaglia/rooflini]rooflini[/]  
 projectstree.add("[bold link=https://github.com/giopaglia/academic-grandfolks]academic-grandfolks[/]          - [bright_black]Trace one's academic genealogy")
 
 
-console.print(soletree)
 console.print(projectstree)
+console.print(soletree)
 console.print("")
 
 CONSOLE_HTML_FORMAT = """\
