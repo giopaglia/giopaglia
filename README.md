@@ -30,38 +30,38 @@ I'm Gio, a computer scientist based in Ferrara, Italy.
 <!-- https://devicon.dev/ & https://github.com/simple-icons/simple-icons -->
 
 <div align="left">
-<a target="_blank" href="https://julialang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="Julia" title="The Julia programming language is the best language in the world!!!"  /></a>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" height="30" alt="Julia"  /> -->
+<a target="_blank" href="https://julialang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" style="height:30px; width:30px" alt="Julia" title="The Julia programming language is the best language in the world!!!"  /></a>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" style="height:30px; width:30px" alt="Julia"  /> -->
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="The Python programming language for fast prototying."  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:30px; width:30px" alt="Python" title="The Python programming language for fast prototying."  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" title="Jupyter for presenting results and prototyping interactive dashboards."  />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="Jupyter" title="Jupyter for presenting results and prototyping interactive dashboards."  /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" style="height:30px; width:30px" alt="Jupyter" title="Jupyter for presenting results and prototyping interactive dashboards."  />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="height:30px; width:30px" alt="Jupyter" title="Jupyter for presenting results and prototyping interactive dashboards."  /> -->
 <img width="12" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="30" alt="LaTeX" title="LaTeX for typesetting elegant reports, whitepapers, and presentations."  />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" style="height:30px; width:30px" alt="LaTeX" title="LaTeX for typesetting elegant reports, whitepapers, and presentations."  />
 <img width="12" /> -->
 <!-- https://www.svgrepo.com/svg/376333/latex?edit=true -->
-<img src="svgrepo/latex-svgrepo-com.svg" height="30" alt="LaTeX" title="LaTeX for typesetting elegant reports, whitepapers, and presentations."  />
+<img src="svgrepo/latex-svgrepo-com.svg" style="height:30px; width:30px" alt="LaTeX" title="LaTeX for typesetting elegant reports, whitepapers, and presentations."  />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="Bash" title="Bash &amp; Zsh for basic automation." />
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" style="height:30px; width:30px" alt="Bash" title="Bash &amp; Zsh for basic automation." />
 <img width="12" />
-<!-- <img src="https://github.com/Zsh-art/logo/blob/main/svg/color_vertical_icon.svg" height="30" alt="Zsh" title="Zsh for basic automation." />
+<!-- <img src="https://github.com/Zsh-art/logo/blob/main/svg/color_vertical_icon.svg" style="height:30px; width:30px" alt="Zsh" title="Zsh for basic automation." />
 <img width="12" /> -->
-<img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" title="Git for versioning every bit of textual data: code, notes, holiday plans, etc." />
+<img src="https://cdn.simpleicons.org/git/F05032" style="height:30px; width:30px" alt="Git" title="Git for versioning every bit of textual data: code, notes, holiday plans, etc." />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux OS."  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:30px; width:30px" alt="Linux OS."  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="Visual Studio Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="height:30px; width:30px" alt="Visual Studio Code"/>
 <img width="12" />
-<img src="https://cdn.simpleicons.org/neovim" height="30" alt="Sublime Text."  />
+<img src="https://cdn.simpleicons.org/neovim" style="height:30px; width:30px" alt="Sublime Text."  />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/tmux" height="30" alt="Tmux."  />
+<img src="https://cdn.simpleicons.org/tmux" style="height:30px; width:30px" alt="Tmux."  />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/alacritty" height="30" alt="Alacritty."  />
+<img src="https://cdn.simpleicons.org/alacritty" style="height:30px; width:30px" alt="Alacritty."  />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/sublimetext" height="30" alt="Sublime Text."  />
+<img src="https://cdn.simpleicons.org/sublimetext" style="height:30px; width:30px" alt="Sublime Text."  />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/ollama" height="30" alt="Ollama: local language models."  />
+<img src="https://cdn.simpleicons.org/ollama" style="height:30px; width:30px" alt="Ollama: local language models."  />
 </div>
 
 
