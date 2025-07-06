@@ -36,8 +36,8 @@ soletree.add(tree1)
 soletree.add(tree2)
 
 projectstree = Tree("🛠️ Utilities", guide_style="bold bright_black")
-projectstree.add("[bold link=https://github.com/giopaglia/bitsofus]bitsofus[/]                       - [bright_black]Takeout data enhancer utilities")
-projectstree.add("[bold link=https://github.com/giopaglia/rooflini]rooflini[/]                     - [bright_black]A Python script for plotting (Intel Advisor style) roofline analyses. ")
+projectstree.add("[bold link=https://github.com/giopaglia/bitsofus]bitsofus[/]                     - [bright_black]Takeout data enhancer utilities")
+projectstree.add("[bold link=https://github.com/giopaglia/rooflini]rooflini[/]                     - [bright_black]Python plot roofline analyses. ")
 projectstree.add("[bold link=https://github.com/giopaglia/academic-grandfolks]academic-grandfolks[/]          - [bright_black]Trace one's academic genealogy.")
 
 
