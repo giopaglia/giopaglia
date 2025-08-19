@@ -25,7 +25,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanni.pagliarini) -->
 
-### 💻 Things I love working with
+### 💻 Things I work with
 
 <!-- https://devicon.dev/ & https://github.com/simple-icons/simple-icons -->
 
