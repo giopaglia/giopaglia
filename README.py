@@ -58,7 +58,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 </div>
 <h2></h2>
 
-### 💫 About Me
+## About Me
 
 🤔 Interested in machine learning, theory of computation, AI, open source;
 <br>
@@ -74,7 +74,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanni.pagliarini) -->
 
-### 💻 Things I work with
+## Things I work with
 
 <!-- https://devicon.dev/ & https://github.com/simple-icons/simple-icons -->
 
@@ -162,7 +162,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 </div>
  -->
 <!-- --- -->
-<!-- ### 🔝 Top Contributed Repo
+<!-- ## Top Contributed Repo
 <div align="left">
 	<img src="https://streak-stats.demolab.com?user=giopaglia&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 	<img src="https://github-contributor-stats.vercel.app/api?username=giopaglia&limit=5&theme=onedark&combine_all_yearly_contributions=true" height="150" alt="languages graph"  />
@@ -173,7 +173,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 🚀 Projects
+## Projects
 
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
 
