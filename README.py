@@ -60,9 +60,9 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 
 ### 💫 About Me
 
-🤔 Interested in AI, computation theory, open source;
+🤔 Interested in machine learning, theory of computation, AI, open source;
 <br>
-📚 Studied computer science and machine learning in 🇮🇹, 🇸🇪, 🇸🇬 & 🇦🇺;
+📚 Studied computer science in 🇮🇹, 🇸🇪, 🇸🇬 & 🇦🇺;
 <br>
 🌱 Working on symbolic AI at <a target="_blank" href="https://planting.space/">PlantingSpace</a>;
 <br>
