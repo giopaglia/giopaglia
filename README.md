@@ -19,8 +19,8 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 <br>
 🔭 Occasionally contributing to the <a target="_blank" href="https://github.com/aclai-lab/Sole.jl">Sole.jl</a> AI framework in Julia;
 <br>
-⚡ Checkout my <a target="_blank" href="https://giopaglia.github.io/">website</a>, my
-<a target="_blank" href="https://linkedin.com/in/giovanni.pagliarini/">LinkedIn</a> or my <a target="_blank" href="https://giopaglia.github.io/gio/Giovanni-Pagliarini-CV-en-latest.pdf">CV</a>.
+⚡ Checkout my <a target="_blank" href="https://giopaglia.xyz/">website</a>, my
+<a target="_blank" href="https://linkedin.com/in/giovanni.pagliarini/">LinkedIn</a> or my <a target="_blank" href="https://giopaglia.xyz/gio/Giovanni-Pagliarini-CV-en-latest.pdf">CV</a>.
 
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanni.pagliarini) -->
