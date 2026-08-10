@@ -102,7 +102,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
     <td align="center" width="95">
       <a href="https://scikit-learn.org/" title="scikit-learn for classical ML.">
         <img src="https://cdn.simpleicons.org/scikitlearn" width="42" height="42" alt="scikit-learn"><br>
-        <b>scikit-learn</b>
+        <b>scikit&#8209;learn</b>
       </a>
     </td>
     <td align="center" width="95">
@@ -127,7 +127,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
     <td align="center" width="95">
       <a href="https://code.visualstudio.com/" title="VS Code as my main editor.">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"><br>
-        <b>VS Code</b>
+        <b>VS&nbsp;Code</b>
       </a>
     </td>
     <td align="center" width="95">
@@ -139,7 +139,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
     <td align="center" width="95">
       <a href="https://www.sublimetext.com/" title="Sublime Text for scratchpads and huge files.">
         <img src="https://cdn.simpleicons.org/sublimetext" width="42" height="42" alt="Sublime Text"><br>
-        <b>Sublime Text</b>
+        <b>Sublime&nbsp;Text</b>
       </a>
     </td>
     <td align="center" width="95">
@@ -210,7 +210,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
     <td align="center" width="95">
       <a href="https://lmstudio.ai/" title="LM Studio for running local LLMs with a friendly UI.">
         <img src="https://cdn.simpleicons.org/lmstudio/000000/ffffff" width="42" height="42" alt="LM Studio"><br>
-        <b>LM Studio</b>
+        <b>LM&nbsp;Studio</b>
       </a>
     </td>
     <td align="center" width="95">
