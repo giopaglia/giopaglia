@@ -144,7 +144,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
     </td>
     <td align="center" width="95">
       <a href="https://github.com/jesseduffield/lazygit" title="lazygit — a delightful terminal UI for git.">
-        <img src="assets/icons/lazygit.png" width="42" height="42" alt="lazygit"><br>
+        <img src="assets/icons/lazygit.svg" width="42" height="42" alt="lazygit"><br>
         <b>lazygit</b>
       </a>
     </td>
