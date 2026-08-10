@@ -201,7 +201,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
     </td>
     <td align="center" width="95">
       <a href="https://github.com/RhetTbull/osxphotos" title="osxphotos — export and query the Apple Photos library from the CLI.">
-        📷<br>
+        <img src="assets/icons/osxphotos.svg" width="42" height="42" alt="copyparty"><br>
         <b>osxphotos</b>
       </a>
     </td>
