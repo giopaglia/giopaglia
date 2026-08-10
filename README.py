@@ -196,13 +196,13 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
   <!-- </tr> -->
   <!-- <tr> -->
     <td align="center" width="95">
-      <a href="https://lmstudio.ai/" title="Local LLMs">
+      <a href="https://lmstudio.ai/" title="LLM workflows">
         <img src="https://cdn.simpleicons.org/lmstudio/000000/ffffff" width="42" height="42" alt="LM Studio"><br>
         <b>LM&nbsp;Studio</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://ollama.com/" title="Local LLMs, when LM Studio doesn't cut it">
+      <a href="https://ollama.com/" title="LLM workflows, when LM Studio doesn't cut it">
         <img src="https://cdn.simpleicons.org/ollama/000000/ffffff" width="42" height="42" alt="Ollama"><br>
         <b>Ollama</b>
       </a>
