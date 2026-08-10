@@ -73,7 +73,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanni.pagliarini) -->
-## Tools I work with
+### Tools I use
 
 <!--
   Icon sources: https://simpleicons.org (cdn.simpleicons.org/<slug>) & https://devicon.dev
@@ -195,7 +195,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
     </td>
     <td align="center" width="95">
       <a href="https://github.com/9001/copyparty" title="copyparty — a portable file server in a single Python file.">
-        <img src="assets/icons/copyparty.png" width="42" height="42" alt="copyparty"><br>
+        <img src="assets/icons/copyparty.svg" width="42" height="42" alt="copyparty"><br>
         <b>copyparty</b>
       </a>
     </td>
@@ -236,6 +236,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 
 <!-- #### Modern UNIX replacements -->
 
+
 [`fzf`](https://github.com/junegunn/fzf) ·
 [`delta`](https://github.com/dandavison/delta) ·
 [`ripgrep`](https://github.com/BurntSushi/ripgrep) ·
@@ -246,7 +247,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 
 <!--
   ── Vendored icons to fetch into assets/icons/ ─────────────────────────────
-  lazygit.png    → GitHub avatar: https://github.com/jesseduffield.png?size=84
+  lazygit.png    → https://user-images.githubusercontent.com/8456633/174470852-339b5011-5800-4bb9-a628-ff230aa8cd4e.png
   copyparty.png  → https://github.com/9001.png?size=84
   digikam.png    → https://invent.kde.org/graphics/digikam-->
 
