@@ -90,7 +90,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
     <td align="center" width="95">
       <a href="https://www.sublimetext.com/" title="Sublime Text for scratchpads and huge files.">
         <img src="https://cdn.simpleicons.org/sublimetext" width="42" height="42" alt="Sublime Text"><br>
-        <b>Sublime</b>
+        <b>Sublime&nbsp;Text</b>
       </a>
     </td>
     <td align="center" width="95">
@@ -144,18 +144,6 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
         <b>Immich</b>
       </a>
     </td>
-    <td align="center" width="95">
-      <a href="https://github.com/9001/copyparty" title="copyparty — a portable file server in a single Python file.">
-        <img src="assets/icons/copyparty.svg" width="42" height="42" alt="copyparty"><br>
-        <b>copyparty</b>
-      </a>
-    </td>
-    <td align="center" width="95">
-      <a href="https://github.com/RhetTbull/osxphotos" title="osxphotos — export and query the Apple Photos library from the CLI.">
-        <img src="assets/icons/osxphotos.svg" width="42" height="42" alt="copyparty"><br>
-        <b>osxphotos</b>
-      </a>
-    </td>
   <!-- </tr> -->
   <!-- <tr> -->
     <td align="center" width="95">
@@ -168,6 +156,18 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
       <a href="https://ollama.com/" title="Ollama for scripting against local models.">
         <img src="https://cdn.simpleicons.org/ollama/000000/ffffff" width="42" height="42" alt="Ollama"><br>
         <b>Ollama</b>
+      </a>
+    </td>
+    <td align="center" width="95">
+      <a href="https://github.com/9001/copyparty" title="copyparty — a portable file server in a single Python file.">
+        <img src="assets/icons/copyparty.svg" width="42" height="42" alt="copyparty"><br>
+        <b>copyparty</b>
+      </a>
+    </td>
+    <td align="center" width="95">
+      <a href="https://github.com/RhetTbull/osxphotos" title="osxphotos — export and query the Apple Photos library from the CLI.">
+        <img src="assets/icons/osxphotos.svg" width="42" height="42" alt="copyparty"><br>
+        <b>osxphotos</b>
       </a>
     </td>
     <td align="center" width="95">
