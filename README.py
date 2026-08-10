@@ -140,7 +140,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
       <a href="https://www.sublimetext.com/" title="Scratchpads and huge files">
         <img src="https://cdn.simpleicons.org/sublimetext" width="42" height="42" alt="Sublime Text"><br>
       </a><a href="https://www.sublimetext.com/" title="Scratchpads and huge files">
-        &#8239;&#8239;&#8239;&#8239;&#8239;<b>Sublime</b>&#8239;&#8239;&#8239;&#8239;&#8239;
+        &#8239;&#8239;&#8239;&#8239;<b>Sublime</b>&#8239;&#8239;&#8239;&#8239;
       </a>
     </td>
     <td align="center" width="95">
