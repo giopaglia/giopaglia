@@ -39,31 +39,31 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 <table>
   <tr>
     <td align="center" width="95">
-      <a href="https://julialang.org/" title="Julia for fast prototyping">
+      <a href="https://julialang.org/" title="Fast prototyping">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="42" height="42" alt="Julia"><br>
         <b>Julia</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://www.python.org/" title="Python for fast prototyping when Julia doesn't cut it.">
+      <a href="https://www.python.org/" title="Fast prototyping, when Julia doesn't cut it">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"><br>
         <b>Python</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://scikit-learn.org/" title="scikit-learn for classical ML.">
+      <a href="https://scikit-learn.org/" title="Classical ML">
         <img src="https://cdn.simpleicons.org/scikitlearn" width="42" height="42" alt="scikit-learn"><br>
         <b>scikit&#8209;learn</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://plotly.com/" title="Plotly for interactive visualizations.">
+      <a href="https://plotly.com/" title="Interactive visualizations">
         <img src="https://cdn.simpleicons.org/plotly" width="42" height="42" alt="Plotly"><br>
         <b>Plotly</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://www.latex-project.org/" title="LaTeX for typesetting elegant reports, whitepapers, and presentations.">
+      <a href="https://www.latex-project.org/" title="Reports, whitepapers, and presentations">
         <img src="assets/icons/latex-svgrepo-com.svg" width="42" height="42" alt="LaTeX"><br>
         <b>LaTeX</b>
       </a>
@@ -76,25 +76,25 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 <table>
   <tr>
     <td align="center" width="95">
-      <a href="https://code.visualstudio.com/" title="VS Code as my main editor.">
+      <a href="https://code.visualstudio.com/" title="Coding IDE">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"><br>
         <b>VS&nbsp;Code</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://neovim.io/" title="Neovim for quick edits and remote work.">
+      <a href="https://neovim.io/" title="Quick edits and remote work">
         <img src="https://cdn.simpleicons.org/neovim" width="42" height="42" alt="Neovim"><br>
         <b>Neovim</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://www.sublimetext.com/" title="Sublime Text for scratchpads and huge files.">
+      <a href="https://www.sublimetext.com/" title="Scratchpads and huge files">
         <img src="https://cdn.simpleicons.org/sublimetext" width="42" height="42" alt="Sublime Text"><br>
-        <b>Sublime&nbsp;Text</b>
+        <b>Sublime</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://github.com/jesseduffield/lazygit" title="lazygit — a delightful terminal UI for git.">
+      <a href="https://github.com/jesseduffield/lazygit" title="Handy git client">
         <img src="assets/icons/lazygit.png" width="42" height="42" alt="lazygit"><br>
         <b>lazygit</b>
       </a>
@@ -102,25 +102,25 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
   <!-- </tr> -->
   <!-- <tr> -->
     <td align="center" width="95">
-      <a href="https://www.zsh.org/" title="Zsh — my shell of choice for daily driving and automation.">
+      <a href="https://www.zsh.org/" title="Daily driving and automation">
         <img src="https://cdn.simpleicons.org/zsh" width="42" height="42" alt="Zsh"><br>
         <b>Zsh</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://alacritty.org/" title="Alacritty — a fast, GPU-accelerated terminal.">
+      <a href="https://alacritty.org/" title="Configurable terminal">
         <img src="https://cdn.simpleicons.org/alacritty" width="42" height="42" alt="Alacritty"><br>
         <b>Alacritty</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://github.com/tmux/tmux" title="tmux for persistent sessions and split panes.">
+      <a href="https://github.com/tmux/tmux" title="Persistent sessions and split panes">
         <img src="https://cdn.simpleicons.org/tmux" width="42" height="42" alt="tmux"><br>
         <b>tmux</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://projects.linuxmint.com/cinnamon/" title="Cinnamon — a comfortable, no-nonsense desktop environment.">
+      <a href="https://projects.linuxmint.com/cinnamon/" title="Comfortable desktop environment">
         <img src="https://cdn.simpleicons.org/cinnamon" width="42" height="42" alt="Cinnamon"><br>
         <b>Cinnamon</b>
       </a>
@@ -133,13 +133,13 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
 <table>
   <tr>
     <td align="center" width="95">
-      <a href="https://obsidian.md/" title="Obsidian for linked markdown notes — my second brain.">
+      <a href="https://obsidian.md/" title="Notes funneling and personal planning">
         <img src="https://cdn.simpleicons.org/obsidian" width="42" height="42" alt="Obsidian"><br>
         <b>Obsidian</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://immich.app/" title="Immich — self-hosted photo & video backup. Love it.">
+      <a href="https://immich.app/" title="Media library">
         <img src="assets/icons/109746326.png" width="42" height="42" alt="Immich"><br>
         <b>Immich</b>
       </a>
@@ -147,37 +147,37 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
   <!-- </tr> -->
   <!-- <tr> -->
     <td align="center" width="95">
-      <a href="https://lmstudio.ai/" title="LM Studio for running local LLMs with a friendly UI.">
+      <a href="https://lmstudio.ai/" title="Local LLMs">
         <img src="https://cdn.simpleicons.org/lmstudio/000000/ffffff" width="42" height="42" alt="LM Studio"><br>
         <b>LM&nbsp;Studio</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://ollama.com/" title="Ollama for scripting against local models.">
+      <a href="https://ollama.com/" title="Local LLMs, when LM Studio doesn't cut it">
         <img src="https://cdn.simpleicons.org/ollama/000000/ffffff" width="42" height="42" alt="Ollama"><br>
         <b>Ollama</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://github.com/9001/copyparty" title="copyparty — a portable file server in a single Python file.">
+      <a href="https://github.com/9001/copyparty" title="Funky file server">
         <img src="assets/icons/copyparty.svg" width="42" height="42" alt="copyparty"><br>
         <b>copyparty</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://github.com/RhetTbull/osxphotos" title="osxphotos — export and query the Apple Photos library from the CLI.">
+      <a href="https://github.com/RhetTbull/osxphotos" title="iCloud takeout utility">
         <img src="assets/icons/osxphotos.svg" width="42" height="42" alt="copyparty"><br>
         <b>osxphotos</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://syncthing.net/" title="Syncthing for continuous peer-to-peer file sync.">
+      <a href="https://syncthing.net/" title="Syncing the workspace">
         <img src="https://cdn.simpleicons.org/syncthing" width="42" height="42" alt="Syncthing"><br>
         <b>Syncthing</b>
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://tailscale.com/" title="Tailscale — zero-config WireGuard mesh VPN connecting all my devices.">
+      <a href="https://tailscale.com/" title="Delocalizing the workspace">
         <img src="https://cdn.simpleicons.org/tailscale/242424/ffffff" width="42" height="42" alt="Tailscale"><br>
         <b>Tailscale</b>
       </a>
