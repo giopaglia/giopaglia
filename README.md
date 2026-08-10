@@ -88,10 +88,10 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
       </a>
     </td>
     <td align="center" width="95">
-      <a href="https://www.sublimetext.com/" title="Scratchpads and huge files">
+      &nbsp;&nbsp;<a href="https://www.sublimetext.com/" title="Scratchpads and huge files">
         <img src="https://cdn.simpleicons.org/sublimetext" width="42" height="42" alt="Sublime Text"><br>
-        <b>&nbsp;Sublime&nbsp;</b>
-      </a>
+        <b>Sublime</b>
+      </a>&nbsp;&nbsp;
     </td>
     <td align="center" width="95">
       <a href="https://github.com/jesseduffield/lazygit" title="Handy git client">
@@ -147,10 +147,10 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
   <!-- </tr> -->
   <!-- <tr> -->
     <td align="center" width="95">
-      <a href="https://lmstudio.ai/" title="LLM workflows">
+      &nbsp;<a href="https://lmstudio.ai/" title="LLM workflows">
         <img src="https://cdn.simpleicons.org/lmstudio/000000/ffffff" width="42" height="42" alt="LM Studio"><br>
-        <b>&nbsp;LM&nbsp;Studio&nbsp;</b>
-      </a>
+        <b>LM&nbsp;Studio</b>
+      </a>&nbsp;
     </td>
     <td align="center" width="95">
       <a href="https://ollama.com/" title="LLM workflows, when LM Studio doesn't cut it">
