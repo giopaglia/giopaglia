@@ -90,7 +90,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
     <td align="center" width="95">
       <a href="https://www.sublimetext.com/" title="Scratchpads and huge files">
         <img src="https://cdn.simpleicons.org/sublimetext" width="42" height="42" alt="Sublime Text"><br>
-        <b>Sublime</b>
+        <b>&nbsp;Sublime&nbsp;</b>
       </a>
     </td>
     <td align="center" width="95">
@@ -149,7 +149,7 @@ I'm Gio (/d͡ʒo/), a computer scientist based in Ferrara, Italy.
     <td align="center" width="95">
       <a href="https://lmstudio.ai/" title="LLM workflows">
         <img src="https://cdn.simpleicons.org/lmstudio/000000/ffffff" width="42" height="42" alt="LM Studio"><br>
-        <b>LM&nbsp;Studio</b>
+        <b>&nbsp;LM&nbsp;Studio&nbsp;</b>
       </a>
     </td>
     <td align="center" width="95">
